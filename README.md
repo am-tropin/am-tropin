@@ -2,7 +2,13 @@
 
 📈 Data Science Enthusiast, 1 year in applying Machine Learning to real-world problems
 - 🔍 I’m looking for a job or projects in Travel, Renewable Energy, EdTech, Media or FinTech industries
-- 💡 I’m currently working on Data Science projects in my GitHub
+- 💡 I’m currently working on Data Science projects here:
+  - [Georgian Alphabet: Image Recognition & Trainers](https://github.com/am-tropin/georgian-letters): image data, CNN, Tensorflow
+  - [Time Series Forecasting for Solar Energy Generation in Germany](https://github.com/am-tropin/renewable-energy-europe): time series data, ARIMA, statsmodels
+  - [Electoral processes in the MSU Mech-Math student council](https://github.com/am-tropin/ssmm_database): text data, Tf-idf, NLTK
+  - [English Song Lyrics: Clustering, Recommender & Trainers](https://github.com/am-tropin/english-song-lyrics): text data, Tf-idf, NLTK, scikit-learn
+  - [European Restaurants: Classification, Hypotheses & Recommender](https://github.com/am-tropin/restaurant-europe): tabular data, Random Forest, hypotheses, scikit-learn, SciPy
+  - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
 
 👨‍🎓 My Degrees: 
 - 🤖 Mathematics and Mechanics Researcher, Discrete Mathematics and Mathematical Cybernetics
