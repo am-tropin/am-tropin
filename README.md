@@ -8,9 +8,9 @@
 - 🤖 Mathematics and Mechanics Researcher, Discrete Mathematics and Mathematical Cybernetics
 - 📐 Mathematics Bachelor & Master, Geometry and Topology
 
-📚 Top academic achievements: 
+<!-- 📚 Top academic achievements: 
 - 📝 published 4 articles about optimizational geometric problems
-- 🥈 2nd place in regional stage of Russian mathematical olympiad
+- 🥈 2nd place in regional stage of Russian mathematical olympiad -->
 
 📲 Contact:
 - 📩 [Linkedin](https://www.linkedin.com/in/aleksandr-tropin/)
