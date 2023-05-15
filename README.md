@@ -9,6 +9,8 @@
   - [English Song Lyrics: Clustering, Recommender & Trainers](https://github.com/am-tropin/english-song-lyrics): text data, Tf-idf, NLTK, scikit-learn
   - [European Restaurants: Classification, Hypotheses & Recommender](https://github.com/am-tropin/restaurant-europe): tabular data, Random Forest, hypotheses, scikit-learn, SciPy
   - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
+- And other interesting things:
+  - [Berlin Rain Map Creator](https://github.com/am-tropin/rain-maps-api): image data, geospatial data, API requests, Plotly
 
 👨‍🎓 My Degrees: 
 - 🤖 Mathematics and Mechanics Researcher, Discrete Mathematics and Mathematical Cybernetics
