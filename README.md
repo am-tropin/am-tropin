@@ -11,6 +11,8 @@
   - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
 - And other interesting things:
   - [Berlin Rain Map Creator](https://github.com/am-tropin/rain-maps-api): image data, geospatial data, API requests, Plotly
+  - [Waltz Identifier](https://github.com/am-tropin/waltz_identifier): audio data, librosa
+  - [The Lord of the Rings Text Statistics](https://github.com/am-tropin/lotr_text_analysis): text data, Tableau
 
 👨‍🎓 My Degrees: 
 - 🤖 Mathematics and Mechanics Researcher, Discrete Mathematics and Mathematical Cybernetics
