@@ -6,7 +6,7 @@
   - [Georgian Alphabet: Image Recognition & Trainers](https://github.com/am-tropin/georgian-letters): image data, CNN, Tensorflow
   - [Time Series Forecasting for Solar Energy Generation in Germany](https://github.com/am-tropin/renewable-energy-europe): time series data, ARIMA, statsmodels
   - [Electoral processes in the MSU Mech-Math student council](https://github.com/am-tropin/ssmm_database): text data, Tf-idf, NLTK
-  - [English Song Lyrics: Clustering, Recommender & Trainers](https://github.com/am-tropin/english-song-lyrics): text data, Tf-idf, NLTK, scikit-learn
+  - [English Song Lyrics: Clustering, Recommender & Trainers](https://github.com/am-tropin/english-song-lyrics): text data, Tf-idf, NLTK, scikit-learn, FastAPI
   - [European Restaurants: Classification, Hypotheses & Recommender](https://github.com/am-tropin/restaurant-europe): tabular data, Random Forest, hypotheses, scikit-learn, SciPy
   - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
 - And other interesting things:
