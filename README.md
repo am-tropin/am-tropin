@@ -10,7 +10,7 @@
   - [European Restaurants: Classification, Hypotheses & Recommender](https://github.com/am-tropin/restaurant-europe): tabular data, Random Forest, hypotheses, scikit-learn, SciPy
   - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
 - And other interesting things:
-  - [Anniversary Reminder](https://github.com/am-tropin/anniversary-reminder): text/tabular data, FastAPI, CI/CD, GitHub Actions
+  - [Anniversary Reminder](https://github.com/am-tropin/anniversary-reminder): text/tabular data, FastAPI, CI/CD, GitHub Actions, unit testing (pytest)
   - [Berlin Rain Map Creator](https://github.com/am-tropin/rain-maps-api): image data, geospatial data, API requests, Plotly, CI/CD, GitHub Actions
   - [Waltz Identifier](https://github.com/am-tropin/waltz_identifier): audio data, librosa
   - [The Lord of the Rings Text Statistics](https://github.com/am-tropin/lotr_text_analysis): text data, Tableau
