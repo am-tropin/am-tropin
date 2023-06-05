@@ -3,12 +3,12 @@
 📈 Data Science Enthusiast, 1 year in applying Machine Learning to real-world problems
 - 🔍 I’m looking for a job or projects in Travel, Renewable Energy, EdTech, Media or FinTech industries
 - 💡 I’m currently working on Data Science projects here:
-  - [Georgian Alphabet: Image Recognition & Trainers](https://github.com/am-tropin/georgian-letters): image data, CNN, Tensorflow
-  - [Time Series Forecasting for Solar Energy Generation in Germany](https://github.com/am-tropin/renewable-energy-europe): time series data, ARIMA, statsmodels
-  - [Electoral processes in the MSU Mech-Math student council](https://github.com/am-tropin/ssmm_database): text data, Tf-idf, NLTK
+  - [Price Predicting for Apartments in Poland](https://github.com/am-tropin/poland-apartment-prices): tabular data, geospatial data, XGBoost, scikit-learn, MLflow, FastAPI
   - [English Song Lyrics: Clustering, Recommender & Trainers](https://github.com/am-tropin/english-song-lyrics): text data, Tf-idf, NLTK, scikit-learn, FastAPI
+  - [Georgian Alphabet: Image Recognition & Trainers](https://github.com/am-tropin/georgian-letters): image data, CNN, Tensorflow
   - [European Restaurants: Classification, Hypotheses & Recommender](https://github.com/am-tropin/restaurant-europe): tabular data, Random Forest, hypotheses, scikit-learn, SciPy
-  - [Price Predicting for Poland Apartments](https://github.com/am-tropin/poland-apartment-prices): tabular data, XGBoost, scikit-learn
+  - [Time Series Forecasting for Solar Energy Generation in Germany](https://github.com/am-tropin/renewable-energy-europe): time series data, ARIMA, statsmodels
+  - [Electoral processes in the MSU Mech-Math student council](https://github.com/am-tropin/ssmm_database): text data, data scraping, Tf-idf, NLTK
 - And other interesting things:
   - [Anniversary Reminder](https://github.com/am-tropin/anniversary-reminder): text/tabular data, FastAPI, CI/CD, GitHub Actions, unit testing (pytest)
   - [Berlin Rain Map Creator](https://github.com/am-tropin/rain-maps-api): image data, geospatial data, API requests, Plotly, CI/CD, GitHub Actions
