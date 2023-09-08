@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Aleksandr
 
-📈 A Data Scientist, 1+ year in applying Machine Learning to real-world problems (and 5 years of commercial data-driven experience as a Data Analyst and a BI Engineer)
+📈 A Data Scientist, 2 years in applying Machine Learning to real-world problems (and 5 years of commercial data-driven experience as a Data Analyst and a BI Engineer).
+
 - 🔍 I’m looking for a job or projects in EdTech, HealthTech, FinTech, AdTech, Travel, Renewable Energy, Media or other industries
 - 💡 I’m currently working on Data Science projects here:
   - [Price Predicting for Apartments in Poland](https://github.com/am-tropin/poland-apartment-prices): tabular data, geospatial data, XGBoost, scikit-learn, MLflow, FastAPI
